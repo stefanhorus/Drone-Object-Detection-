@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Datasets (download COCO and rebuild with prepare_coco_person.py)
+data/
+coco/
+
+# Training outputs
+runs/
+*.log

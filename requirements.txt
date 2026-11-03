@@ -1,0 +1,6 @@
+djitellopy>=2.5
+opencv-python>=4.8
+numpy>=1.24,<2
+pygame>=2.5
+torch>=2.0
+ultralytics>=8.0
